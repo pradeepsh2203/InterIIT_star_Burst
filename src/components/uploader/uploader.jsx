@@ -41,6 +41,7 @@ function Uploader(props){
         marginBottom:0,
         justifyContent:'center',
         alignItems:'center',
+        marginLeft: 24,
       }}>UPLOAD</Button>
       </Grid>
       </Card>
