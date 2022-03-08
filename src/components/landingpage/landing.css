@@ -26,13 +26,6 @@ box-shadow: 0 8px 48px 8px rgba(47, 91, 234, 0.175)
 
 /* astrologo_black 1 */
 
-.image{position: absolute;
-width: 268.06px;
-height: 90px;
-left: 77px;
-top: 19px;
-}
-
 
 /* Solar Burst Visualiser */
 .heading-text{
@@ -51,7 +44,7 @@ font-family: sans-serif;
 }
 @media screen and (max-width:768px){
   .heading-text{
-    font-size:20px;
+    font-size:30px;
   }
 }
 
