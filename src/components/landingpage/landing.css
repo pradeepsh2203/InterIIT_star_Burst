@@ -1,0 +1,118 @@
+/* Landing Page */
+body{
+  font-family: montserrat sans-serif;
+  background:#101827!important;
+}
+
+
+/* Header */
+
+.header{
+position: absolute;
+position: sticky; top: 0;
+width: 100vw;
+height: 100px;
+top: 0!important;
+left: 0px;
+top: 0px;
+background: rgb(29, 29, 49);
+border: none;
+box-sizing: border-box;
+box-shadow: 0 8px 48px 8px rgba(47, 91, 234, 0.175)
+}
+
+
+
+
+/* astrologo_black 1 */
+
+
+/* Solar Burst Visualiser */
+.heading-text{
+justify-content: right;
+text-align: right;
+padding: 3px;
+margin-right: 10px;
+margin-top: 10px;
+margin-bottom: 5px;
+font-style: normal;
+font-weight: normal;
+font-size: 45px;
+line-height: 59px;
+color: white;
+font-family: sans-serif;
+}
+@media screen and (max-width:768px){
+  .heading-text{
+    font-size:30px;
+  }
+}
+
+
+/* button */
+
+/* .btn{
+position: relative;
+width: 120px;
+height: 80px;
+color: white;
+border: 1px solid white;
+box-sizing: border-box;
+border-radius: 30px;
+margin-top:35vw;
+margin-bottom: 20vw;
+}
+.btn:hover{
+  background:#000000;
+  color: white;
+} */
+
+.uploadComponent{
+  justify-content: center!important;
+  text-align: center!important;
+  align-items: center!important;
+  display: flex;
+}
+
+/* Input Box */
+
+/* .inputBox{position: absolute;
+width: 758px;
+height: 169px;
+left: 138px;
+top: 495px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 30px;} */
+
+
+/* Please Select your file
+
+position: absolute;
+width: 648px;
+height: 169px;
+left: 187px;
+top: 495px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 50px;
+line-height: 59px;
+display: flex;
+align-items: center;
+
+color: #000000; */
+
+
+
+/* button */
+
+
+
+
+/* Search */
+
+

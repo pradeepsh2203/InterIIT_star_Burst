@@ -1,0 +1,41 @@
+.card{
+  position: relative;
+  background-color:rgb(255, 255, 255)!important;
+  overflow: hidden;
+  border-radius: 2rem;
+  transition: 0.4s;
+}
+  .card:hover{
+    transform: 'translateY(-2px)';
+  }
+
+.filename{
+  background-color: white;
+  border: 1px solid black;
+  font-family: sans-serif;
+  font-size:medium;
+  font-weight: normal;
+  text-align: center;
+}
+
+.image{position: absolute;
+  max-width: 100%;
+  max-height: 100%;
+  left: 20px;
+  top: 10px;
+  bottom:20px;
+
+}
+  
+
+@media screen and (max-width:768px){
+  .btn{
+    margin-right: 10px!important;
+  }
+  .image{
+    max-width: 240px;
+    max-height: 240px;
+    left: 10px;
+    top: 10px;
+  }
+}
