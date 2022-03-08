@@ -16,7 +16,7 @@ const Landing = () => {
       <h1 className="heading-text">Solar Burst Visualiser</h1>
       </div>
       <div className="image">
-      <img src={'./public/astrologo_black.png'} alt='logo'/>
+      <img src='' alt='logo'/>
       </div>
 
       <Uploader/>
