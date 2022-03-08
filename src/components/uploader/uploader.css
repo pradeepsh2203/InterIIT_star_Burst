@@ -1,0 +1,26 @@
+.card{
+  position: relative;
+  background-color:rgb(255, 255, 255)!important;
+  overflow: hidden;
+  border-radius: 2rem;
+  transition: 0.4s;
+}
+  .card:hover{
+    transform: 'translateY(-2px)';
+  }
+
+.filename{
+  background-color: white;
+  border: 1px solid black;
+  font-family: sans-serif;
+  font-size:medium;
+  font-weight: normal;
+  text-align: center;
+}
+/* 
+.btn{
+  justify-content: center;
+  align-items: center!important;
+  padding: 3px;
+
+} */
